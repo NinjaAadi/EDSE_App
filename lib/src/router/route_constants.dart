@@ -1,0 +1,19 @@
+const String LoginRoute = "/";
+const String HomeRoute = "/home";
+const String NoticeRoute = "/notice";
+const String ShowAllClass = "/allClassForTeachers";
+const String ShowAllStudentsForClass = "/allStudentsForClass";
+const String StudentProfileRoute = "/studentProfile";
+const String AddProfileRoute = "/addProfiles";
+const String AddStudentProfileRoute = "/addStudentProfile";
+const String AddTeacherProfileRoute = "/addTeacherProfileRoute";
+const String AddNonTeachingStaffProfileRoute =
+    "/addNonTeachingStaffProfileRoute";
+const String AddTimeTableRoute = "/addTimeTable";
+const String AddTimeTableForTeacherRoute = "/addTimeTableForTeacher";
+const String AddTimeTableForClassRoute = "/addTimeTableForClass";
+const String AddCourseRoute = "/addCourseRoute";
+const String AddTransportRoute = "/addTransportRoute";
+const String AddRoleRoute = "/addRoleRoute";
+const String AddNoticeRoute = "/addNoticeRoute";
+const String AddReviewRoute = "/addReview";
